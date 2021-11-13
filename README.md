@@ -13,7 +13,7 @@ $ echo "<YOUR_API_KEY>" > ~/.config/ipdb.txt
 ### Usage
 Usage example:
 ```
-$ cat iplist.txt | abuseip
+$ echo "230.246.11.2" | abuseip
 ```
 or
 ```
